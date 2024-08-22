@@ -1,5 +1,3 @@
----
-
 # Cross-Platform UI Widget Comparison: Flutter, Jetpack Compose, and SwiftUI
 
 This document provides a comparison of equivalent widgets and concepts between Flutter, Jetpack Compose, and SwiftUI. It is designed to help developers familiar with one framework to understand the equivalent components in another.
@@ -70,5 +68,3 @@ This document provides a comparison of equivalent widgets and concepts between F
 | Navigation Library  | `flutter_navigation`, `get`, `auto_route` | `androidx.navigation.compose` | Native SwiftUI Navigation or third-party libraries like `NavigationStack` | Libraries to help with navigation and deep linking in the app. |
 | Custom Animations   | `PageRouteBuilder`      | `AnimatedNavHost` with `AnimatedVisibility` | `CustomTransition` or `matchedGeometryEffect` | For custom transition animations between screens.              |
 | Observing Navigation| `NavigatorObservers`    | `NavHostController.currentBackStackEntryAsState` | `@State`, `@Binding` with `onAppear` | Observing and reacting to navigation events.                   |
-
----
