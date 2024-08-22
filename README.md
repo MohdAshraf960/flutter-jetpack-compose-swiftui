@@ -1,5 +1,3 @@
-Here's a README file that includes the comparisons for Flutter, Jetpack Compose, and SwiftUI:
-
 ---
 
 # Cross-Platform UI Widget Comparison: Flutter, Jetpack Compose, and SwiftUI
